@@ -6,4 +6,4 @@
 📡 Developed a LiDAR-based spatial scanning system using stepper motors and ToF sensors<br />
 🧠 Always exploring new ways to optimize code, improve circuit design, and push performance<br />
 🛠️ Past experience as a Math Tutor and Administrative Assistant, with a knack for simplifying complex ideas<br />
-🌐 Check out my personal portfolio website at the following [LINK](www.manandua17.github.io)<br />
+🌐 Check out my personal portfolio website at the following [LINK](https://www.manandua17.github.io)<br />
