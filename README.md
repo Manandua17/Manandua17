@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-⚡ I’m a 2nd year Computer Engineering student @ McMaster University<br />
+⚡ I’m a 3rd year Computer Engineering student @ McMaster University<br />
 🤖 Passionate about embedded systems, hardware-software integration, and building cool tech<br />
 🏆 Team lead of Terminal Velocity, winners of Most Creative Design @ McMaster Sumobot Competition<br />
 📡 Developed a LiDAR-based spatial scanning system using stepper motors and ToF sensors<br />
